@@ -3862,4 +3862,7 @@ header button:hover {
   #portfolio .portfolio-item {
     position: static !important;
   }
+  h2 {
+  font-size: 5rem;
+}
 }
